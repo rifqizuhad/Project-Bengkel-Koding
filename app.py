@@ -5,7 +5,12 @@ import numpy as np
 # ------------------------------#
 # Konfigurasi halaman
 # ------------------------------#
+
 st.set_page_config(page_title="Prediksi Obesitas", layout="centered")
+
+st.markdown("### Nama: **RIFQI ZUHAD**")
+st.markdown("### NIM: **A11.2022.14307**")
+
 st.title("🍔 Prediksi Tingkat Obesitas dengan Random Forest")
 
 # ------------------------------#
