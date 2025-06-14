@@ -8,10 +8,13 @@ import numpy as np
 
 st.set_page_config(page_title="Prediksi Obesitas", layout="centered")
 
-st.markdown("### Nama: **RIFQI ZUHAD**")
-st.markdown("### NIM: **A11.2022.14307**")
+st.markdown("## 👤 Identitas Mahasiswa")
+st.markdown("- **Nama :** RIFQI ZUHAD FIRMANSYAH  \n- **NIM :** A11.2022.14307")
 
-st.title("🍔 Prediksi Tingkat Obesitas dengan Random Forest")
+st.markdown("---")
+st.title("🍔 Prediksi Tingkat Obesitas dengan Random Forest 🍕")
+st.caption("🧠 Aplikasi ini memprediksi tingkat obesitas berdasarkan data pribadi dan gaya hidup.")
+
 
 # ------------------------------#
 # Fungsi bantu
